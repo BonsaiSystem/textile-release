@@ -1,6 +1,6 @@
 # Textile Release
 
-Windows installer for Textile application.
+Installers for the Textile desktop app.
 
 ## Download
 
